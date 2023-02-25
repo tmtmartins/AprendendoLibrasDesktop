@@ -1,0 +1,286 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{89D7A278-1551-4BCE-943C-FB3EA2F37B3F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>AluraWF</RootNamespace>
+    <AssemblyName>Aprendendo Libras</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>ProjetoIco.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <NoWin32Manifest>true</NoWin32Manifest>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Alfabeto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Alfabeto.Designer.cs">
+      <DependentUpon>Alfabeto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCreditos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCreditos.Designer.cs">
+      <DependentUpon>frmCreditos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDescricao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDescricao.Designer.cs">
+      <DependentUpon>frmDescricao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmGeradorPalavras.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGeradorPalavras.Designer.cs">
+      <DependentUpon>frmGeradorPalavras.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmHistoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmHistoria.Designer.cs">
+      <DependentUpon>frmHistoria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmJogoDaMemoria.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmJogoDaMemoria.Designer.cs">
+      <DependentUpon>frmJogoDaMemoria.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMontarPalavra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMontarPalavra.Designer.cs">
+      <DependentUpon>frmMontarPalavra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Menu.Designer.cs">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Transform.cs" />
+    <EmbeddedResource Include="Alfabeto.resx">
+      <DependentUpon>Alfabeto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCreditos.resx">
+      <DependentUpon>frmCreditos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDescricao.resx">
+      <DependentUpon>frmDescricao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmGeradorPalavras.resx">
+      <DependentUpon>frmGeradorPalavras.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmHistoria.resx">
+      <DependentUpon>frmHistoria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmJogoDaMemoria.resx">
+      <DependentUpon>frmJogoDaMemoria.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMontarPalavra.resx">
+      <DependentUpon>frmMontarPalavra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Menu.resx">
+      <DependentUpon>Menu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\Icons\voltar2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\Icons\voltar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\Icons\search2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\Icons\clean4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\Icons\clean3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\Icons\clean2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\Icons\clean1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\Alfabeto\inicio.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\Background\yellow2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\Icons\exit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\Icons\exit1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\Icons\back.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\Alfabeto\A.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\Alfabeto\B.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\Alfabeto\C.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\Alfabeto\C1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\Alfabeto\C2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\Alfabeto\D.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\Alfabeto\E.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\Alfabeto\F.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\Alfabeto\G.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\Alfabeto\H.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\Alfabeto\I.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\Alfabeto\J.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\Alfabeto\K.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\Alfabeto\L.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\Alfabeto\M.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\Alfabeto\N.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\Alfabeto\O.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\Alfabeto\P.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\Alfabeto\Q.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\Alfabeto\R.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\Alfabeto\S.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\Alfabeto\T.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\Alfabeto\U.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\Alfabeto\V.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\Alfabeto\W.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\Alfabeto\X.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\Alfabeto\Y.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\Alfabeto\Z.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\Alfabeto\verse.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\Alfabeto\verso1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Imagens\Alfabeto\verso2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="ProjetoIco.ico" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

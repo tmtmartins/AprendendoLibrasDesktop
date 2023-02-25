@@ -1,0 +1,79 @@
+C:\Users\Tamires\Desktop\Tamires\USC\C#\2º Semestre\AluraWF\AluraWF\bin\Debug\AluraWF.exe.config
+C:\Users\Tamires\Desktop\Tamires\USC\C#\2º Semestre\AluraWF\AluraWF\bin\Debug\AluraWF.exe
+C:\Users\Tamires\Desktop\Tamires\USC\C#\2º Semestre\AluraWF\AluraWF\bin\Debug\AluraWF.pdb
+C:\Users\Tamires\Desktop\Tamires\USC\C#\2º Semestre\AluraWF\AluraWF\obj\Debug\AprendendoLibras.csprojAssemblyReference.cache
+C:\Users\Tamires\Desktop\Tamires\USC\C#\2º Semestre\AluraWF\AluraWF\obj\Debug\AluraWF.frmAlfabeto.resources
+C:\Users\Tamires\Desktop\Tamires\USC\C#\2º Semestre\AluraWF\AluraWF\obj\Debug\AluraWF.frmGeradorPalavras.resources
+C:\Users\Tamires\Desktop\Tamires\USC\C#\2º Semestre\AluraWF\AluraWF\obj\Debug\AluraWF.Properties.Resources.resources
+C:\Users\Tamires\Desktop\Tamires\USC\C#\2º Semestre\AluraWF\AluraWF\obj\Debug\AprendendoLibras.csproj.GenerateResource.cache
+C:\Users\Tamires\Desktop\Tamires\USC\C#\2º Semestre\AluraWF\AluraWF\obj\Debug\AprendendoLibras.csproj.CoreCompileInputs.cache
+C:\Users\Tamires\Desktop\Tamires\USC\C#\2º Semestre\AluraWF\AluraWF\obj\Debug\AluraWF.exe
+C:\Users\Tamires\Desktop\Tamires\USC\C#\2º Semestre\AluraWF\AluraWF\obj\Debug\AluraWF.pdb
+C:\Users\Tamires\Desktop\Tamires\USC\C#\2º Semestre\AluraWF\AluraWF\obj\Debug\AluraWF.frmForca.resources
+C:\Users\Tamires\Desktop\Tamires\USC\C#\2º Semestre\AluraWF\AluraWF\obj\Debug\AluraWF.frmDescricao.resources
+C:\Users\Tamires\Desktop\Tamires\USC\C#\2º Semestre\AluraWF\AluraWF\obj\Debug\AluraWF.frmMenu.resources
+C:\Users\Marques\Downloads\AprendendoLibras-main\AprendendoLibras-main\AluraWF\bin\Debug\AluraWF.exe.config
+C:\Users\Marques\Downloads\AprendendoLibras-main\AprendendoLibras-main\AluraWF\bin\Debug\AluraWF.exe
+C:\Users\Marques\Downloads\AprendendoLibras-main\AprendendoLibras-main\AluraWF\bin\Debug\AluraWF.pdb
+C:\Users\Marques\Downloads\AprendendoLibras-main\AprendendoLibras-main\AluraWF\obj\Debug\AprendendoLibras.csprojAssemblyReference.cache
+C:\Users\Marques\Downloads\AprendendoLibras-main\AprendendoLibras-main\AluraWF\obj\Debug\AluraWF.frmAlfabeto.resources
+C:\Users\Marques\Downloads\AprendendoLibras-main\AprendendoLibras-main\AluraWF\obj\Debug\AluraWF.frmDescricao.resources
+C:\Users\Marques\Downloads\AprendendoLibras-main\AprendendoLibras-main\AluraWF\obj\Debug\AluraWF.frmGeradorPalavras.resources
+C:\Users\Marques\Downloads\AprendendoLibras-main\AprendendoLibras-main\AluraWF\obj\Debug\AluraWF.frmForca.resources
+C:\Users\Marques\Downloads\AprendendoLibras-main\AprendendoLibras-main\AluraWF\obj\Debug\AluraWF.frmMenu.resources
+C:\Users\Marques\Downloads\AprendendoLibras-main\AprendendoLibras-main\AluraWF\obj\Debug\AluraWF.Properties.Resources.resources
+C:\Users\Marques\Downloads\AprendendoLibras-main\AprendendoLibras-main\AluraWF\obj\Debug\AprendendoLibras.csproj.GenerateResource.cache
+C:\Users\Marques\Downloads\AprendendoLibras-main\AprendendoLibras-main\AluraWF\obj\Debug\AprendendoLibras.csproj.CoreCompileInputs.cache
+C:\Users\Marques\Downloads\AprendendoLibras-main\AprendendoLibras-main\AluraWF\obj\Debug\AluraWF.exe
+C:\Users\Marques\Downloads\AprendendoLibras-main\AprendendoLibras-main\AluraWF\obj\Debug\AluraWF.pdb
+C:\Users\Marques\Downloads\AprendendoLibras-main\AprendendoLibras-main\AluraWF\obj\Debug\AluraWF.frmHistoria.resources
+C:\Users\Tamires\Downloads\AprendendoLibras-main\AluraWF\bin\Debug\AluraWF.exe.config
+C:\Users\Tamires\Downloads\AprendendoLibras-main\AluraWF\bin\Debug\AluraWF.exe
+C:\Users\Tamires\Downloads\AprendendoLibras-main\AluraWF\bin\Debug\AluraWF.pdb
+C:\Users\Tamires\Downloads\AprendendoLibras-main\AluraWF\obj\Debug\AprendendoLibras.csprojAssemblyReference.cache
+C:\Users\Tamires\Downloads\AprendendoLibras-main\AluraWF\obj\Debug\AluraWF.frmAlfabeto.resources
+C:\Users\Tamires\Downloads\AprendendoLibras-main\AluraWF\obj\Debug\AluraWF.frmJogoDaMemoria.resources
+C:\Users\Tamires\Downloads\AprendendoLibras-main\AluraWF\obj\Debug\AluraWF.frmDescricao.resources
+C:\Users\Tamires\Downloads\AprendendoLibras-main\AluraWF\obj\Debug\AluraWF.frmGeradorPalavras.resources
+C:\Users\Tamires\Downloads\AprendendoLibras-main\AluraWF\obj\Debug\AluraWF.frmHistoria.resources
+C:\Users\Tamires\Downloads\AprendendoLibras-main\AluraWF\obj\Debug\AluraWF.frmForca.resources
+C:\Users\Tamires\Downloads\AprendendoLibras-main\AluraWF\obj\Debug\AluraWF.frmMenu.resources
+C:\Users\Tamires\Downloads\AprendendoLibras-main\AluraWF\obj\Debug\AluraWF.Properties.Resources.resources
+C:\Users\Tamires\Downloads\AprendendoLibras-main\AluraWF\obj\Debug\AprendendoLibras.csproj.GenerateResource.cache
+C:\Users\Tamires\Downloads\AprendendoLibras-main\AluraWF\obj\Debug\AprendendoLibras.csproj.CoreCompileInputs.cache
+C:\Users\Tamires\Downloads\AprendendoLibras-main\AluraWF\obj\Debug\AluraWF.exe
+C:\Users\Tamires\Downloads\AprendendoLibras-main\AluraWF\obj\Debug\AluraWF.pdb
+C:\Users\Tamires\Downloads\AprendendoLibras-master\AluraWF\obj\Debug\AprendendoLibras.csprojAssemblyReference.cache
+C:\Users\Tamires\Downloads\AprendendoLibras-master\AluraWF\obj\Debug\AluraWF.frmAlfabeto.resources
+C:\Users\Tamires\Downloads\AprendendoLibras-master\AluraWF\obj\Debug\AluraWF.frmDescricao.resources
+C:\Users\Tamires\Downloads\AprendendoLibras-master\AluraWF\obj\Debug\AluraWF.frmGeradorPalavras.resources
+C:\Users\Tamires\Downloads\AprendendoLibras-master\AluraWF\obj\Debug\AluraWF.frmForca.resources
+C:\Users\Tamires\Downloads\AprendendoLibras-master\AluraWF\obj\Debug\AluraWF.frmMenu.resources
+C:\Users\Tamires\Downloads\AprendendoLibras-master\AluraWF\obj\Debug\AluraWF.Properties.Resources.resources
+C:\Users\Tamires\Downloads\AprendendoLibras-master\AluraWF\obj\Debug\AprendendoLibras.csproj.GenerateResource.cache
+C:\Users\Tamires\Downloads\AprendendoLibras-master\AluraWF\obj\Debug\AprendendoLibras.csproj.CoreCompileInputs.cache
+C:\Users\Tamires\Downloads\AprendendoLibras-master\AluraWF\obj\Debug\AluraWF.frmJogoDaMemoria.resources
+C:\Users\Tamires\Downloads\AprendendoLibras-master\AluraWF\bin\Debug\Aprendendo Libras.exe.config
+C:\Users\Tamires\Downloads\AprendendoLibras-master\AluraWF\bin\Debug\Aprendendo Libras.exe
+C:\Users\Tamires\Downloads\AprendendoLibras-master\AluraWF\bin\Debug\Aprendendo Libras.pdb
+C:\Users\Tamires\Downloads\AprendendoLibras-master\AluraWF\obj\Debug\Aprendendo Libras.exe
+C:\Users\Tamires\Downloads\AprendendoLibras-master\AluraWF\obj\Debug\Aprendendo Libras.pdb
+C:\Users\Tamires\Downloads\AprendendoLibras-master\AluraWF\obj\Debug\AluraWF.frmHistoria.resources
+C:\Users\Tamires\Downloads\AprendendoLibras-master\AluraWF\obj\Debug\AluraWF.frmCreditos.resources
+C:\Users\Tamires\Desktop\Tamires\AprendendoLibras-master\AprendendoLibras-master\AluraWF\bin\Debug\Aprendendo Libras.exe.config
+C:\Users\Tamires\Desktop\Tamires\AprendendoLibras-master\AprendendoLibras-master\AluraWF\bin\Debug\Aprendendo Libras.exe
+C:\Users\Tamires\Desktop\Tamires\AprendendoLibras-master\AprendendoLibras-master\AluraWF\bin\Debug\Aprendendo Libras.pdb
+C:\Users\Tamires\Desktop\Tamires\AprendendoLibras-master\AprendendoLibras-master\AluraWF\obj\Debug\AprendendoLibras.csprojAssemblyReference.cache
+C:\Users\Tamires\Desktop\Tamires\AprendendoLibras-master\AprendendoLibras-master\AluraWF\obj\Debug\AluraWF.frmAlfabeto.resources
+C:\Users\Tamires\Desktop\Tamires\AprendendoLibras-master\AprendendoLibras-master\AluraWF\obj\Debug\AluraWF.frmCreditos.resources
+C:\Users\Tamires\Desktop\Tamires\AprendendoLibras-master\AprendendoLibras-master\AluraWF\obj\Debug\AluraWF.frmDescricao.resources
+C:\Users\Tamires\Desktop\Tamires\AprendendoLibras-master\AprendendoLibras-master\AluraWF\obj\Debug\AluraWF.frmGeradorPalavras.resources
+C:\Users\Tamires\Desktop\Tamires\AprendendoLibras-master\AprendendoLibras-master\AluraWF\obj\Debug\AluraWF.frmHistoria.resources
+C:\Users\Tamires\Desktop\Tamires\AprendendoLibras-master\AprendendoLibras-master\AluraWF\obj\Debug\AluraWF.frmJogoDaMemoria.resources
+C:\Users\Tamires\Desktop\Tamires\AprendendoLibras-master\AprendendoLibras-master\AluraWF\obj\Debug\AluraWF.frmForca.resources
+C:\Users\Tamires\Desktop\Tamires\AprendendoLibras-master\AprendendoLibras-master\AluraWF\obj\Debug\AluraWF.frmMenu.resources
+C:\Users\Tamires\Desktop\Tamires\AprendendoLibras-master\AprendendoLibras-master\AluraWF\obj\Debug\AluraWF.Properties.Resources.resources
+C:\Users\Tamires\Desktop\Tamires\AprendendoLibras-master\AprendendoLibras-master\AluraWF\obj\Debug\AprendendoLibras.csproj.GenerateResource.cache
+C:\Users\Tamires\Desktop\Tamires\AprendendoLibras-master\AprendendoLibras-master\AluraWF\obj\Debug\AprendendoLibras.csproj.CoreCompileInputs.cache
+C:\Users\Tamires\Desktop\Tamires\AprendendoLibras-master\AprendendoLibras-master\AluraWF\obj\Debug\Aprendendo Libras.exe
+C:\Users\Tamires\Desktop\Tamires\AprendendoLibras-master\AprendendoLibras-master\AluraWF\obj\Debug\Aprendendo Libras.pdb

@@ -1,0 +1,14 @@
+C:\Users\Tamires\Desktop\Tamires\USC\C#\2º Semestre\AluraWF\AluraWF\bin\Debug\AluraWF.exe.config
+C:\Users\Tamires\Desktop\Tamires\USC\C#\2º Semestre\AluraWF\AluraWF\bin\Debug\AluraWF.exe
+C:\Users\Tamires\Desktop\Tamires\USC\C#\2º Semestre\AluraWF\AluraWF\bin\Debug\AluraWF.pdb
+C:\Users\Tamires\Desktop\Tamires\USC\C#\2º Semestre\AluraWF\AluraWF\obj\Debug\AluraWF.csprojAssemblyReference.cache
+C:\Users\Tamires\Desktop\Tamires\USC\C#\2º Semestre\AluraWF\AluraWF\obj\Debug\AluraWF.Properties.Resources.resources
+C:\Users\Tamires\Desktop\Tamires\USC\C#\2º Semestre\AluraWF\AluraWF\obj\Debug\AluraWF.csproj.GenerateResource.cache
+C:\Users\Tamires\Desktop\Tamires\USC\C#\2º Semestre\AluraWF\AluraWF\obj\Debug\AluraWF.csproj.CoreCompileInputs.cache
+C:\Users\Tamires\Desktop\Tamires\USC\C#\2º Semestre\AluraWF\AluraWF\obj\Debug\AluraWF.exe
+C:\Users\Tamires\Desktop\Tamires\USC\C#\2º Semestre\AluraWF\AluraWF\obj\Debug\AluraWF.pdb
+C:\Users\Tamires\Desktop\Tamires\USC\C#\2º Semestre\AluraWF\AluraWF\obj\Debug\AluraWF.frm_Teste.resources
+C:\Users\Tamires\Desktop\Tamires\USC\C#\2º Semestre\AluraWF\AluraWF\obj\Debug\AluraWF.frmDescricao.resources
+C:\Users\Tamires\Desktop\Tamires\USC\C#\2º Semestre\AluraWF\AluraWF\obj\Debug\AluraWF.frmAlfabeto.resources
+C:\Users\Tamires\Desktop\Tamires\USC\C#\2º Semestre\AluraWF\AluraWF\obj\Debug\AluraWF.frmMontarPalavra.resources
+C:\Users\Tamires\Desktop\Tamires\USC\C#\2º Semestre\AluraWF\AluraWF\obj\Debug\AluraWF.frmGeradorPalavras.resources
